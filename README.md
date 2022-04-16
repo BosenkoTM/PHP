@@ -26,6 +26,8 @@
 
 [12. Типы ошибок и исключения](lessons/12.md)
 
+[12-1. Регулярные выражения](lessons/learn-regex-master/README-ru.md)
+
 [13. Работа с БД. Библиотека PDO](lessons/13.md)
 
 [14. Работа с датами](lessons/14.md)
