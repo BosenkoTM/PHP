@@ -16,7 +16,7 @@
 
 <br/><br/>
 <p align="center">
-  <img src="../img/regexp-ru.png" alt="Regular expression">
+  <img src="img/regexp-ru.png" alt="Regular expression">
 </p>
 
 Регулярное выражения выше может принимать строки `john_doe`,`jo-hn_doe` и `john12_as`.
@@ -524,13 +524,16 @@
 [Запустить регулярное выражение](https://regex101.com/r/AyAdgJ/2)
 
 
-## Содействие
+### Источники
 
-* Вы можете открыть пулл реквест с улучшением
-* Обсуждать идеи в issues
-* Распространять ссылку на репозиторий
-* Получить обратную связь через [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/ziishaned.svg?style=social&label=Follow%20%40ziishaned)](https://twitter.com/ziishaned)
+- PHP7. Дмитрий Котеров, Игорь Симдянов
 
-## Лицензия
 
-MIT &copy; [Zeeshan Ahmad](https://twitter.com/ziishaned)
+[ЗАДАНИЕ ПО ТЕМЕ](https://github.com/BosenkoTM/PHP/blob/main/TASKS/Regular_PHP.pdf)
+
+
+
+
+
+
+
